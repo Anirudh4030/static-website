@@ -1,0 +1,748 @@
+.my-project-home-page {
+    text-align: center;
+    padding: 15px;
+}
+
+.software-developer-image {
+    width: 80vw;
+}
+
+.my-project-heading {
+    color: #183b56;
+    font-family: "bree serif";
+    font-size: 24px;
+}
+
+.my-project-description {
+    color: #616e7c;
+    font-family: "bree serif";
+    font-size: 12px;
+}
+
+.my-project-image {
+    width: 160vw;
+    height: 90px;
+    margin: 5px;
+}
+
+.top-main-container {
+    text-align: center;
+    padding: 15px;
+}
+
+.top-heading {
+    color: #183b56;
+    padding: 15px;
+    font-family: Roboto;
+    font-size: 25px;
+}
+
+.software-developer-image {
+    width: 80vw;
+
+}
+
+.top-container {
+    background-image: url();
+    height: 60vh;
+    text-align: center;
+    background-size: cover;
+    font-family: Bree Serif;
+    margin-top: 25px;
+}
+
+.topp-secc {
+    text-align: center;
+    font-family: Bree Serif;
+}
+
+.top-main-heading {
+    color: #183b56;
+    font-size: 22px;
+}
+
+.top-main-paragraph {
+    color: #616e7c;
+    font-size: 15px;
+}
+
+.bottom-image {
+    height: 20vh;
+    background-size: cover;
+    margin: 9px;
+}
+
+.bottom-container {
+    margin: 15px;
+}
+
+
+.advanced-total-container {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.advanced-bg-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 120vh;
+    background-size: cover;
+}
+
+.advanced-card-container {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 20vh;
+
+}
+
+.advanced-card-main-heading {
+    color: #5752ab;
+    font-family: Bree Serif;
+    font-size: 30px;
+    padding: 15px;
+    margin: 5px;
+
+
+}
+
+.advanced-card-paragraph {
+    color: #323f4b;
+    font-family: Roboto;
+    padding: 15px;
+}
+
+.advanced-button-one {
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: black;
+    border-color: #d7dfe9;
+}
+
+.button-two {
+    border-radius: 15px;
+    background-color: #5752ab;
+    padding: 10px;
+    height: 10vh;
+    width: 30vw;
+    border-color: #d7dfe9;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+
+.food-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.food-card-container {
+    background-color: #f6c56e;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 24px;
+}
+
+.food-main-heading {
+    font-family: Bree Serif;
+    color: #323f4b;
+    font-size: 30px;
+}
+
+.food-paragraph {
+    font-family: Roboto;
+    font-weight: bold;
+    color: #323f4b;
+    font-size: 16px;
+
+}
+
+.food-button {
+    color: black;
+    font-style: Roboto;
+    border-width: 0px;
+    border-radius: 8px;
+    background-color: white;
+    height: 40px;
+    width: 120px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.news-bg-image {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.news-card-container {
+    background-color: white;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    padding: 25px;
+    height: 40vh;
+    text-align: start;
+}
+
+.news-card-paragraph {
+    color: #323f4b;
+    font-size: 15px;
+}
+
+.news-paragraph {
+    color: #7b8794;
+    font-size: 15px;
+}
+
+.news-card-heading {
+    color: #323f4b;
+    font-size: 25px;
+    font-family: Roboto;
+}
+
+.news-card-button {
+    color: #ffffff;
+    background-color: #323f4b;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 5px;
+}
+
+.button {
+    color: white;
+    background-color: #25b1cc;
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+}
+
+.paragraph {
+    font-family: "Roboto";
+}
+
+.favourite-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 100vh;
+    background-size: cover;
+    padding: 24px;
+}
+
+.favourite-places-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.favourite-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.favourite-place-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.favourite-place-card-image {
+    width: 80px;
+    height: 100px;
+}
+
+.favourite-place-card-text-container {
+    margin-right: 15px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.animal-main-container {
+    background-color: black;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.animal-mainheading {
+    color: white;
+}
+
+.animal-card-container {
+    margin: 15px;
+
+}
+
+.animal-cardimage {
+    height: 20vh;
+    background-size: cover;
+}
+
+.animal-mhk {
+    margin: 15px;
+}
+
+.animal-heading {
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.animal-detailcontainer {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-turtle-bg.png");
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    font-family: Roboto;
+}
+
+.animal-detailcontainertwo {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-raccoon-bg.png");
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    font-family: Roboto;
+}
+
+.animal-detailcontainerthree {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-kangaroo-bg.png");
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    font-family: Roboto;
+}
+
+.animal-detailcontainerfour {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-lion-bg.png");
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    font-family: Roboto;
+}
+
+.animal-detailcontainerr {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-raccoon-bg.png");
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    font-family: Roboto;
+}
+
+.animal-detail {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-kangaroo-bg.png");
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    font-family: Roboto;
+}
+
+.animal-detailcontainerr {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/animals-lion-bg.png");
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    font-family: Roboto;
+}
+
+
+
+
+
+
+
+.jenny-profile {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 30px;
+}
+
+.jenny-image {
+    width: 200px;
+    margin: 30px;
+}
+
+.jenny-buttonimage {
+    height: 50px;
+    width: 50px;
+}
+
+.jenny-heading {
+    font-size: 24px;
+}
+
+.jenny-mp {
+    margin-top: 25px;
+}
+
+.jenny-awards {
+    background-color: #f7fbff;
+    padding: 20px;
+}
+
+.jenny-bio {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+
+
+
+.podcasts-home-page-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+
+}
+
+.podcasts-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+    padding: 20px;
+}
+
+.bottom-section {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+
+.card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 5px;
+    margin: 15px;
+}
+
+.card-image {
+    height: 140px;
+    width: 160px;
+}
+
+.card-name {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+.card-paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.favourite-places-bg-containerr {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading {
+    color: #151765;
+    font-size: 18px;
+    padding: 15px;
+    font-weight: 12px;
+}
+
+.favourite-places-bg-container {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+}
+
+.top-favourite-places-bg-container {
+    height: 30vh;
+    width: 70vh;
+    background-color: #151765;
+}
+
+.top-favourite-places-heading {
+    font-family: Roboto;
+    font-size: 9px;
+    color: white;
+    margin-top: 30px;
+
+}
+
+.top-favourite-places-main-heading {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.top-favourite-places-main-heading-paragraph {
+    font-family: Roboto;
+    font-size: 9px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.favourite-places-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.favourite-place-card-heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.favourite-place-card-headingg {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 10px;
+
+
+}
+
+.favourite-place-card-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.favourite-place-card-image {
+    width: 140px;
+    height: 120px;
+    margin: 15px;
+}
+
+.button {
+    background-color: #141961;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 12px;
+    color: white;
+    border-radius: 25px;
+    height: 24px;
+    width: 75px;
+    border-width: 0px;
+}
+
+.button-container {
+    margin: 20px;
+}
+
+.podcast-text-container {
+    padding: 10px;
+}
+
+.category {
+    color: white;
+    font-family: "Roboto";
+    font-size: 12px;
+
+
+}
+
+.podcast-header {
+    background-color: #151765;
+    padding: 20px;
+    height: 170px;
+}
+
+.podcast-name {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px;
+
+}
+
+.podcast-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.podcast-caption {
+    color: white;
+    font-family: "Roboto";
+    font-size: 10px;
+
+}
+
+.podcast-episode-container {
+    margin: 10px;
+}
+
+.podcast-duration {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.podcast-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.podcast-image {
+    width: 144px;
+    height: 112px;
+    margin-top: 10px;
+}
+
+.bib {
+    text-align: end;
+}
