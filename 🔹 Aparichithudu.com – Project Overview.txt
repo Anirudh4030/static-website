@@ -1,0 +1,50 @@
+🔹 Aparichithudu.com – Project Overview 🚀
+From start to finish, here’s everything you have built:
+
+1️⃣ Website Entry Animation
+✅ Dark-themed cinematic intro with "Aparichithudu" text
+✅ Subtext: "Raise your complaints" (Fanlste font)
+✅ Hell-themed background image with reduced opacity
+
+2️⃣ Video Section
+✅ Movie-inspired video plays on page load
+✅ Audio is enabled and plays automatically
+✅ Full-screen mode, but scrollable
+
+3️⃣ Chatbot (Anniyan’s Talk Box)
+✅ Cinematic chatbox with transparent/glass effect
+✅ Luxury font for chat text
+✅ Dynamic responses (interactive feature added)
+
+4️⃣ Additional Pages (Pop-up Style)
+✅ Top-right button: “On-Field Workers”
+🔹 Opens a cinematic dark-themed container with 3 images
+🔹 Each image has a name & description
+
+✅ Top-right button: “Victims”
+🔹 Opens a cinematic dark-themed container
+🔹 Displays 3 victim images (no text)
+
+5️⃣ Floating Avatar Button (Removed, Changed to Button)
+❌ Originally, clicking the floating avatar opened a pop-up
+✅ Now, replaced with a button at the top-right
+
+6️⃣ Developer Section (Bottom of Page)
+✅ Your details with a description (why you built this site)
+✅ Developer button – clicking reveals:
+🔹 Your photo
+🔹 Contact details (Instagram, LinkedIn, GitHub, etc.)
+🔹 Clicking again hides the section
+
+7️⃣ Final UI Tweaks
+✅ Dark theme everywhere
+✅ Text with proper fonts (Gotham, Fanlste, Luxury Font)
+✅ Buttons correctly positioned
+✅ No overlap issues
+✅ Background image added behind main title
+
+8️⃣ Deployment (In Progress)
+✅ Files remain in the main folder (no assets folder)
+✅ Uploaded to Netlify (drag & drop method)
+✅ Waiting for the live link
+
